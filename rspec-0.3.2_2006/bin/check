@@ -1,0 +1,2 @@
+#!/bin/sh
+USER=marick bundle exec spec ./test_spec.rb

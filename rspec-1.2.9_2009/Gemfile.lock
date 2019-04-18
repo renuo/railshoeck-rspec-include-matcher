@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rspec (1.2.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rspec (= 1.2.9)
+
+RUBY VERSION
+   ruby 1.9.3p551
+
+BUNDLED WITH
+   1.17.3

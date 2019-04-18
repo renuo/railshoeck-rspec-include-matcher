@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+ruby '1.9.3'
+
+gem 'rspec', '= 2.13.0' # Version >= 2.0 and < 2.4 only work with Ruby 1.9.2 or lower

@@ -1,0 +1,8 @@
+= RSpec Changelog
+
+== Version 0.1.0
+
+This is the first preview release of RSpec, a Behaviour-Driven Development library for Ruby 
+
+* Added Rake script with tasks for gems, rdoc etc.
+* Added an XForge task to make release go easier.

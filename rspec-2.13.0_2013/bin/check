@@ -1,0 +1,2 @@
+#!/bin/sh
+bundle exec rspec ./test_commented_spec.rb
