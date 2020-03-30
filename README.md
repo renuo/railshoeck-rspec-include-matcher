@@ -11,5 +11,7 @@ Run it like this:
 tkn/bin/tkn slides.rb
 ```
 
+The PDF of the presentation is here: [railshöck-rspec.pdf](./railshöck-rspec.pdf)
+
 Copyright: 2019 Renuo
 
